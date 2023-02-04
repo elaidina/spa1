@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: "Tengo 7 años".
+      img: "Tengo 7 años"
     },
     {
       name: '10',
