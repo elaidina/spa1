@@ -79,15 +79,15 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Katten är svart.'
+      img: 'El gato es negro.'
+    },
+    {
+      name: '11',
+      img: 'I like chocolate ice-cream.'
     },
     {
       name: '11',
       img: 'Me gusta el helado de chocolate.'
-    },
-    {
-      name: '11',
-      img: 'Jag gillar chokladglass.'
     },
     {
       name: '12',
