@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Tomemos un par de tijeras y cortemos un pequeño corazón".
+      img: "Tomemos un par de tijeras y cortemos un pequeño corazón."
     }
   ]
 

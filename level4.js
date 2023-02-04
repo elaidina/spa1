@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "La botella está vacía".
+      img: "La botella está vacía."
     },
     {
       name: '2',

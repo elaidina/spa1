@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Har du syster eller bror?'
+      img: 'Do you have a sister or brother?'
     },
     {
       name: '11',

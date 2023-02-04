@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "El sol brilla y hace calor".
+      img: "El sol brilla y hace calor."
     },
     {
       name: '3',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: "Me gustaría salir".
+      img: "Me gustaría salir."
     },
     {
       name: '5',

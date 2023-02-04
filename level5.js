@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: "Estoy dibujando una flor".
+      img: "Estoy dibujando una flor."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Estoy pintando con mis nuevas acuarelas".
+      img: "Estoy pintando con mis nuevas acuarelas."
     },
     {
       name: '6',
